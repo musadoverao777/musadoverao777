@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bibi 👋
+# Oi, gente!! Eu sou a Bianca de Oliveira 👋
 
 ### Software Engineer · M.EIC @ FEUP · AI & Full-Stack
 
@@ -22,3 +22,28 @@ Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
+
+<div align="center">
+
+
+### 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&hide_border=true&title_color=7F77DD&text_color=768390&bg_color=00000000" />
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+
+📫 Open to new opportunities · full-stack & AI roles
+
+</div>
+
