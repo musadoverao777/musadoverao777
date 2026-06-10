@@ -51,7 +51,8 @@ Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 
 
 
-![Contribution snake](https://raw.githubusercontent.com/musadoverao777/musadoverao777/output/github-snake.svg)
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/musadoverao777/musadoverao777/output/github-snake.svg" alt="Contribution snake" />
+</div>
 
 
