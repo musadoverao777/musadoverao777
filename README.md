@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Software Engineer · M.EIC @ FEUP · AI & Full-Stack
+Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 <!--
 **musadoverao777/musadoverao777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
