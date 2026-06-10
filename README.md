@@ -30,7 +30,8 @@ Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&hide_border=true&title_color=7F77DD&text_color=768390&bg_color=00000000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=musadoverao777&show_icons=true&include_all_commits=true&hide_border=true&title_color=7F77DD&icon_color=7F77DD&text_color=768390&bg_color=00000000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musadoverao777&layout=compact&langs_count=8&hide_border=true&title_color=7F77DD&text_color=768390&bg_color=00000000" />
 
 </div>
 
@@ -46,4 +47,6 @@ Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 📫 Open to new opportunities · full-stack & AI roles
 
 </div>
+<div align="center">
+
 
