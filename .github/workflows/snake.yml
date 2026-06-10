@@ -18,8 +18,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # quadradinhos com transparência (26 -> bf) = se adaptam a fundo claro ou escuro
           outputs: |
-            dist/github-snake.svg?color_snake=#7F77DD&color_dots=#262240,#3d356b,#5b4fae,#7F77DD,#b9b2f0
+            dist/github-snake.svg?color_snake=#7F77DD&color_dots=#7f77dd26,#7f77dd59,#7f77dd8c,#7f77ddbf,#7f77dd
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4.0.0
