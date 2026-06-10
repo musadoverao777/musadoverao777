@@ -42,11 +42,20 @@ Brazilian 🇧🇷 building things in Porto, Portugal 🇵🇹
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bi_simoes15@outlook.com)
 
 📫 Open to new opportunities · full-stack & AI roles
 
 </div>
 <div align="center">
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musadoverao777/musadoverao777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musadoverao777/musadoverao777/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/musadoverao777/musadoverao777/output/github-snake.svg" />
+</picture>
+</div>
 
 
